@@ -7,7 +7,7 @@ July 24 2022
 Replace the Project Title
 
 ### Description
-Lerning git/github and version control
+The focus of this project is to Learn version control with git/github
 
 ### Files used
 bikeshare.py
