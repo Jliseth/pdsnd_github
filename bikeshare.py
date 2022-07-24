@@ -1,4 +1,6 @@
 # This project is to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington
+# This code will import the data and answer questions about it by computing descritive statistics.  It slso takes in raw input 
+# to create an interactive experience in the terminal to present these statistics
 
 import time
 import pandas as pd
