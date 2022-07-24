@@ -7,7 +7,7 @@ July 24 2022
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+Lerning git/github and version control
 
 ### Files used
 Include the files used
