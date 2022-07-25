@@ -1,3 +1,7 @@
+# This project is to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington
+# This code will import the data and answer questions about it by computing descritive statistics.  It slso takes in raw input 
+# to create an interactive experience in the terminal to present these statistics
+
 import time
 import pandas as pd
 import numpy as np
@@ -23,7 +27,7 @@ def get_filters():
     print('Hello! Let\'s explore some US bikeshare data!')
     city = ''
 
-    
+
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while city.lower() not in CITY_DATA.keys():
        city = input('Please choose one of 3 cities, Chicago, New York City, or Washington which you like to expplore: \n').lower()
